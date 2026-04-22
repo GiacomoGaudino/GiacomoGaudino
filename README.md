@@ -1,20 +1,19 @@
-Hi, I'm Giacomo Gaudino 👋
+## Hi, I'm Giacomo 👋
 
-Junior Full Stack Developer with a strong focus on backend development and building practical, scalable web applications.
+Junior Full Stack Developer focused on backend development and practical web applications.
 
-🔹 Main Project
-👉 Cartfy – Full Stack E-commerce Platform
+### 🚀 Main Project
+**Cartify**  
+Full Stack E-commerce Platform  
 https://github.com/GiacomoGaudino/Cartify
 
-🔹 Other Project
-👉 TaskFlow – Task Management App
+### 📌 Other Project
+**TaskFlow**  
+Task Management App  
 https://github.com/GiacomoGaudino/TaskFlow
 
-🔹 Currently Working On
+### 🛠 Currently Working On
+Payment integration, deployment, and new full stack projects.
 
-Payment system integration
-Admin dashboard improvements
-Full project deployment
-
-🔹 Tech Stack
-JavaScript, Node.js, Express, PHP, Laravel, MySQL
+### ⚙️ Tech Stack
+JavaScript • Node.js • Express • PHP • Laravel • MySQL
