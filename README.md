@@ -12,8 +12,5 @@ https://github.com/GiacomoGaudino/Cartify
 Task Management App  
 https://github.com/GiacomoGaudino/TaskFlow
 
-### 🛠 Currently Working On
-Payment integration, deployment, and new full stack projects.
-
 ### ⚙️ Tech Stack
 JavaScript • Node.js • Express • PHP • Laravel • MySQL
